@@ -53,7 +53,7 @@ Incluye las siguientes visualizaciones:
 
 > 📷 **Captura del dashboard**
 >
-> *(Insertar aquí la imagen del dashboard.)*
+> *(Análisis de Precios Promedio de Alimentos y Bebidas (INDEC.jpg)*
 
 ---
 
