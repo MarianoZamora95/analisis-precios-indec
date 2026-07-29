@@ -72,7 +72,11 @@ Instituto Nacional de Estadística y Censos (INDEC).
 
 ---
 
-## 🔗 Dashboard interactivo
+## 🔗 Enlaces
+
+**Google Colab**
+
+https://colab.research.google.com/drive/1M2cjO4ThMqKJDzB9FWS2nUhVu9AGTmNS#scrollTo=ovmdT11ZFWAv
 
 **Data Studio:**
 
