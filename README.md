@@ -53,7 +53,7 @@ Incluye las siguientes visualizaciones:
 
 > 📷 **Captura del dashboard**
 >
-> [Dashboard](dashboard_ipc.jpg)
+> ![Dashboard](dashboard_ipc.jpg)
 
 ---
 
