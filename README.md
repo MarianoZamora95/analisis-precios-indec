@@ -1,4 +1,4 @@
-📊 Análisis de Precios Promedio de Alimentos y Bebidas (INDEC)
+# 📊 Análisis de Precios Promedio de Alimentos y Bebidas (INDEC)
 📖 Descripción
 
 Este proyecto desarrolla un proceso completo de análisis de datos utilizando información oficial del Índice de Precios al Consumidor (IPC) publicada por el Instituto Nacional de Estadística y Censos (INDEC).
