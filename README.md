@@ -30,7 +30,7 @@ A partir de un archivo Excel con una estructura compleja, se realizó la importa
 
 ## 📂 Contenido del repositorio
 
-- **Análisis_de_Precios_al_Consumidor.ipynb** → Notebook con el desarrollo completo del proyecto.
+- **Análisis_de_Precios_al_Consumidor_(IPC).ipynb** → Notebook con el desarrollo completo del proyecto.
 - **ipc_limpio.csv** → Dataset limpio generado durante el análisis.
 - **sh_ipc_precios_promedio.xlsx** → Archivo original utilizado como fuente de datos.
 
