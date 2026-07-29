@@ -5,24 +5,24 @@ Este proyecto desarrolla un proceso completo de análisis de datos utilizando in
 
 A partir de un archivo Excel con una estructura compleja, se realizó la importación, limpieza, transformación y análisis de los datos mediante Python y Pandas, para posteriormente construir un dashboard interactivo en Data Studio que facilita la exploración de la información.
 
-🎯 Objetivos
+# 🎯 Objetivos
 Importar datos desde un archivo Excel.
 Limpiar y transformar el conjunto de datos.
 Realizar un análisis exploratorio.
 Generar un dataset limpio en formato CSV.
 Construir un dashboard interactivo para visualizar los resultados.
-🛠 Tecnologías utilizadas
+# 🛠 Tecnologías utilizadas
 Python
 Pandas
 Jupyter Notebook
 Microsoft Excel
 Data Studio
-📂 Contenido del repositorio
+# 📂 Contenido del repositorio
 Analisis_IPC_Precios.ipynb → Notebook con todo el proceso de análisis.
 ipc_limpio.csv → Dataset limpio generado durante el proyecto.
 sh_ipc_precios_promedio.xlsx → Archivo original utilizado como fuente de datos.
 Captura del dashboard interactivo.
-📈 Dashboard
+# 📈 Dashboard
 
 El dashboard permite analizar la información mediante filtros por:
 
@@ -39,7 +39,7 @@ Tabla interactiva por región, producto y período.
 
 (Acá insertás la captura del dashboard).
 
-📌 Principales resultados
+# 📌 Principales resultados
 Limpieza y transformación de aproximadamente 9.000 registros.
 Conversión del archivo desde formato ancho a formato largo.
 Creación de variables auxiliares para facilitar el análisis cronológico.
@@ -48,7 +48,7 @@ Desarrollo de un dashboard interactivo para explorar la evolución de los precio
 
 Instituto Nacional de Estadística y Censos (INDEC)
 
-🔗 Dashboard interactivo
+# 🔗 Dashboard interactivo
 
 Data Studio:
 
