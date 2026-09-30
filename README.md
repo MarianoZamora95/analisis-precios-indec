@@ -13,11 +13,10 @@ Los resultados se presentan en un dashboard interactivo desarrollado en Data Stu
 
 ## 🎯 Objetivos
 
-- Importar datos desde un archivo Excel.
-- Limpiar y transformar el conjunto de datos.
-- Realizar un análisis exploratorio de los datos.
-- Generar un dataset limpio en formato CSV.
-- Construir un dashboard interactivo para visualizar los resultados.
+- El precio promedio registrado pasó de **28,81 en 2017 a 3.083,71 en 2026**, mostrando un incremento sostenido a lo largo del período analizado.
+- **Patagonia** presentó el mayor precio promedio regional, con **936,29**, mientras que **Noreste** registró el menor, con **735,13**.
+- Entre los productos analizados, **carne picada común** presentó el mayor precio promedio, con **2.350,82**, seguida por **aceite de girasol (1.471,18) y pollo entero (1.155,88)**.
+- El dashboard permite explorar estos resultados según **año, región y producto**, facilitando la comparación de los precios promedio dentro del período analizado.
 
 ---
 
