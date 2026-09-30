@@ -13,10 +13,10 @@ Los resultados se presentan en un dashboard interactivo desarrollado en Data Stu
 
 ## 🎯 Objetivos
 
-- El precio promedio registrado pasó de **28,81 en 2017 a 3.083,71 en 2026**, mostrando un incremento sostenido a lo largo del período analizado.
-- **Patagonia** presentó el mayor precio promedio regional, con **936,29**, mientras que **Noreste** registró el menor, con **735,13**.
-- Entre los productos analizados, **carne picada común** presentó el mayor precio promedio, con **2.350,82**, seguida por **aceite de girasol (1.471,18) y pollo entero (1.155,88)**.
-- El dashboard permite explorar estos resultados según **año, región y producto**, facilitando la comparación de los precios promedio dentro del período analizado.
+- Analizar la evolución de los precios promedio de los productos seleccionados a lo largo del período 2017–2026.
+- Comparar los precios promedio registrados entre las distintas regiones.
+- Identificar los productos con mayores precios promedio dentro del conjunto de datos analizado.
+- Facilitar la exploración de los resultados mediante un dashboard interactivo con filtros por año, región y producto.
 
 ---
 
@@ -61,10 +61,11 @@ Incluye las siguientes visualizaciones:
 
 ## 📌 Principales resultados
 
-- Limpieza y transformación de aproximadamente 9.000 registros.
-- Conversión del archivo desde formato ancho a formato largo.
-- Creación de variables auxiliares para ordenar correctamente los períodos.
-- Desarrollo de un dashboard interactivo para explorar la evolución de los precios.
+- El precio promedio registrado pasó de **28,81 en 2017 a 3.083,71 en 2026**, mostrando un incremento sostenido a lo largo del período analizado.
+- **Patagonia** presentó el mayor precio promedio regional, con **936,29**, mientras que **Noreste** registró el menor, con **735,13**.
+- Entre los productos analizados, **carne picada común** presentó el mayor precio promedio, con **2.350,82**, seguida por **aceite de girasol (1.471,18) y pollo entero (1.155,88)**.
+- El dashboard permite explorar estos resultados según **año, región y producto**, facilitando la comparación de los precios promedio dentro del período analizado.
+
 
 ---
 
