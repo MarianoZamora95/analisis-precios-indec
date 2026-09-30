@@ -2,9 +2,12 @@
 
 ## 📖 Descripción
 
-Este proyecto desarrolla un proceso completo de análisis de datos utilizando información oficial del Índice de Precios al Consumidor (IPC) publicada por el Instituto Nacional de Estadística y Censos (INDEC).
+Este proyecto analiza datos oficiales del Índice de Precios al Consumidor (IPC) publicados por el Instituto Nacional de Estadística y Censos (INDEC), con foco en los precios promedio de alimentos y bebidas.
 
-A partir de un archivo Excel con una estructura compleja, se realizó la importación, limpieza, transformación y análisis de los datos mediante Python y Pandas, para posteriormente construir un dashboard interactivo en Data Studio.
+A partir de un archivo Excel con una estructura compleja, se realizó la limpieza y transformación de los datos mediante Python y Pandas para analizar la evolución de los precios a lo largo del tiempo, las diferencias entre regiones y los productos con mayores precios promedio.
+
+Los resultados se presentan en un dashboard interactivo desarrollado en Data Studio, que permite explorar la información mediante filtros por año, región y producto.
+
 
 ---
 
